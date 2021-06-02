@@ -6,11 +6,11 @@ Solar geoengineering refers to the idea of deliberately increasing Earth’s alb
 
 ## Contributors
 
-* Mira Adhikari
-* Emily Ball
-* Matthew Henry
-* Eunice Lo
-* Carla Roesch
+* Mira Adhikari (https://london-nerc-dtp.org/profile/adhikarim/)
+* Emily Ball (https://research-information.bris.ac.uk/en/persons/emily-ball)
+* Matthew Henry (https://matthewjhenry.github.io/)
+* Eunice Lo (https://research-information.bris.ac.uk/en/persons/eunice-lo)
+* Carla Roesch (https://www.iup.uni-heidelberg.de/en/institut/mitarbeiter/carla-roesch)
 * With links to GitHub profiles / institution pages, etc.
 
 ## What was done
