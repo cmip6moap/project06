@@ -11,7 +11,6 @@ Solar geoengineering refers to the idea of deliberately increasing Earth’s alb
 * Matthew Henry (https://matthewjhenry.github.io/)
 * Eunice Lo (https://research-information.bris.ac.uk/en/persons/eunice-lo)
 * Carla Roesch (https://www.iup.uni-heidelberg.de/en/institut/mitarbeiter/carla-roesch)
-* With links to GitHub profiles / institution pages, etc.
 
 ## What was done
 
