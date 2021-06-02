@@ -1,53 +1,25 @@
-# Hackathon Project Template
+# Differences between 'turning down the sun' and stratospheric sulfate injection
 
-This is a template repo for hackathon projects. Click the (green) "Use this
-template" button at the top of the page to use it.
+## Abstract
 
-There are also some example notebooks. Check our [Hackathon Resources](https://cmip6moap.github.io/resources/)
-page for further guidance, including our participant guide and recommendations
-for using Git and GitHub in your project team.
-
-This template repo was created for the [CMIP6 Data Hackathon](https://cmip6moap.github.io)
-by [James Thomas](https://github.com/jatonline) and [Will Seviour](https://github.com/wseviour).
-
-## Change this README!
-
-When you've used this template, remove the above text and replace with the
-below:
-
----
-
-# [Project title]
-
-[Short summary of the project]
+Solar geoengineering refers to the idea of deliberately increasing Earth’s albedo to temporarily cool the planet while we cut emissions and remove greenhouse gases from the atmosphere. There are many ways this could be achieved, the most studied is stratospheric sulfate injection, which mimics what happens during a volcanic eruption. The increase in Earth’s albedo is not the only effect of stratospheric sulfate injection, yet many studies just reduce the solar constant (or ‘turn down the sun’) to simulate solar geoengineering. As part of the Geoengineering Model Intercomparison Project (GeoMIP), the G6sulfur and G6solar simulations reduce the warming from the high-tier emission scenario to the medium-tier emission scenario by adding a stratospheric sulfate aerosol layer (G6sulfur) or a uniform reduction in the solar constant (G6solar). By analysing the differences between these two simulations, we can isolate the climate impacts of stratospheric aerosol injection that arise independently from the increase in Earth’s albedo. 
 
 ## Contributors
 
-* Contributors list
+* Mira Adhikari
+* Emily Ball
+* Matthew Henry
+* Eunice Lo
+* Carla Roesch
 * With links to GitHub profiles / institution pages, etc.
 
 ## What was done
 
-### How we approached the problem and why
+Reproduce simple analysis figures for now on comparing changes in temperature and precipitation (and accounting for seasonality) between G6Solar and G6Sulfur, using UKESM model (only one available on Jasmin). 
 
-[...]
-
-### Data we used and how to obtain this
-
-* [...]
-* [...]
-* [...]
-
-### What we did during the hackathon
-
-* [...]
-* [...]
-* [...]
 
 ### Outcomes
 
-* [...]
-* [...]
 * [...]
 
 ## About this repo
@@ -56,8 +28,6 @@ There are further `README` files in key directories.
 
 ### Key files
 
-* [...]
-* [...]
 * [...]
 
 ### How to reproduce our outputs
@@ -101,3 +71,11 @@ There are further `README` files in key directories.
 * [...]
 * [...]
 * [...]
+
+
+Check our [Hackathon Resources](https://cmip6moap.github.io/resources/)
+page for further guidance, including our participant guide and recommendations
+for using Git and GitHub in your project team.
+
+This template repo was created for the [CMIP6 Data Hackathon](https://cmip6moap.github.io)
+by [James Thomas](https://github.com/jatonline) and [Will Seviour](https://github.com/wseviour).
