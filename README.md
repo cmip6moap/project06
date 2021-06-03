@@ -1,8 +1,14 @@
 # Differences between 'turning down the sun' and stratospheric sulfate injection
 
-## Abstract
+## Motivating questions 
 
-Solar geoengineering refers to the idea of deliberately increasing Earth’s albedo to temporarily cool the planet while we cut emissions and remove greenhouse gases from the atmosphere. There are many ways this could be achieved, the most studied is stratospheric sulfate injection, which mimics what happens during a volcanic eruption. The increase in Earth’s albedo is not the only effect of stratospheric sulfate injection, yet many studies just reduce the solar constant (or ‘turn down the sun’) to simulate solar geoengineering. As part of the Geoengineering Model Intercomparison Project (GeoMIP), the G6sulfur and G6solar simulations reduce the warming from the high-tier emission scenario to the medium-tier emission scenario by adding a stratospheric sulfate aerosol layer (G6sulfur) or a uniform reduction in the solar constant (G6solar). By analysing the differences between these two simulations, we can isolate the climate impacts of stratospheric aerosol injection that arise independently from the increase in Earth’s albedo. 
+* How effective is sulfate geoengineering at moderating changes in temperature and precipitation extremes both regionally and seasonally? (Compare SSP585/SSP242 and G6sulfur) 
+
+* How do differences between sulfate geoengineering and solar dimming affect these results? (Compare G6solar and G6sulfur). For example, there is evidence that the stratospheric heating from aerosol injection affects stratospheric-tropospheric coupling and leads to Eurasian winter warming. 
+
+_Metrics used for temperature:_ daily maximum/minimum in DJF/JJA. 
+
+_Metrics used for precipitation:_ Rx5day (Monthly maximum consecutive 5-day precipitation) and CWD (Maximum length of wet spell, maximum number of consecutive days with RR ≥ 1mm) 
 
 ## Contributors
 
