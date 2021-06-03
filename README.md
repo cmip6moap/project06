@@ -12,11 +12,11 @@ _Metrics used for precipitation:_ Rx5day (Monthly maximum consecutive 5-day prec
 
 ## Contributors
 
-* Mira Adhikari (https://london-nerc-dtp.org/profile/adhikarim/)
-* Emily Ball (https://research-information.bris.ac.uk/en/persons/emily-ball)
-* Matthew Henry (https://matthewjhenry.github.io/)
-* Eunice Lo (https://research-information.bris.ac.uk/en/persons/eunice-lo)
-* Carla Roesch (https://www.iup.uni-heidelberg.de/en/institut/mitarbeiter/carla-roesch)
+* [Mira Adhikari](https://london-nerc-dtp.org/profile/adhikarim/)
+* [Emily Ball](https://research-information.bris.ac.uk/en/persons/emily-ball)
+* [Matthew Henry](https://matthewjhenry.github.io/)
+* [Eunice Lo](https://research-information.bris.ac.uk/en/persons/eunice-lo)
+* [Carla Roesch](https://www.iup.uni-heidelberg.de/en/institut/mitarbeiter/carla-roesch)
 
 ## What was done
 
